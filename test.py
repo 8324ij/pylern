@@ -17,3 +17,6 @@ class animal:
 
     def rpar(self):
         return self.va
+
+    def test(self):
+        print("nur ein test zum branching")
