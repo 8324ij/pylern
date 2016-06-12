@@ -19,4 +19,4 @@ class animal:
         return self.va
 
     def test(self):
-        print("nur ein test zum branching")
+        print("nur ein test zum branching!!")
